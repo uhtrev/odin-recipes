@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "odin-recipes",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "odin-recipes"
+	}
+}
